@@ -17,7 +17,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://www.facebook.com/Kiruer19/" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/ios/50/facebook-new.png" alt="facebook-new"/></a>  
+&nbsp; <a href="https://www.facebook.com/Kiruer19/" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/facebook-new.png"/></a>  
 </p>
 
 <!--
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<a  href="https://icons8.com/icon/118468/facebook">Facebook</a> icon by <a href="https://icons8.com">Icons8</a>
