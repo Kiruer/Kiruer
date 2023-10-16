@@ -17,7 +17,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://www.facebook.com/Kiruer19/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/118468/facebook.png" width="30"></a>  
+&nbsp; <a href="https://www.facebook.com/Kiruer19/" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/ios/50/facebook-new.png" alt="facebook-new"/></a>  
 </p>
 
 <!--
