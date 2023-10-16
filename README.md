@@ -17,7 +17,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kiruer&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiruer&show_icons=true&theme=transparent)
 
 <br>
 <h3> 🤝🏻 Connect with Me </h3>
