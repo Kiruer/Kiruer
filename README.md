@@ -3,7 +3,7 @@
 
 - I'm currently working my way through a penetration tester career
 
-- 
+- Playing CTF to improve my problem-solving skill from the beginning ^^
 
 <br>
 
