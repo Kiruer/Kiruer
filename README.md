@@ -1,12 +1,18 @@
 ### Heyyy there 👋
 <h3> 👨🏻‍💻 About Me </h3>
 
+- I'm currently working my way through a penetration tester career
+
+- 
+
 <br>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | PHP  
-- 🔧 &nbsp; Visual Studio code  | Git | Linux
+- 💻 &nbsp; Python | JavaScript | PHP 
+  
+- 🔧 &nbsp; Visual Studio Code  | Git | Linux | BurpSuite
+  
 - 🖥 &nbsp; Photoshop
 
 <br>
@@ -17,7 +23,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://www.facebook.com/Kiruer19/" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/facebook-new.png"/></a>  
+<!-- &nbsp; <a href="https://www.facebook.com/Kiruer19/" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/facebook-new.png"/></a>  -->
 &nbsp; <a href="https://discord.com/channels/@kiru408" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a>  
 </p>
 
